@@ -2,8 +2,8 @@ title:             Clean Blog
 email:             lewiswei@foxmail.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+baseurl:           ""
+url:               "http://justb.github.io"
 
 # Social Profiles
 twitter_username:  SBootstrap
