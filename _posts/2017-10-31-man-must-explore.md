@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "nginx配置 打开gizp"
-subtitle: "nginx配置 打开gizp"
 date:   2017-10-31 10:45:13 -0400
 background: '/img/posts/06.jpg'
 ---

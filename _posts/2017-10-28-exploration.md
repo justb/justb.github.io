@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "前端性能优化"
-subtitle: "前端性能优化"
 date:   2017-10-28 23:45:13 -0400
 background: '/img/posts/03.jpg'
 ---
