@@ -7,7 +7,7 @@ background: '/img/posts/01.jpg'
 
 
 
-## 浏览器渲染过程
+## setTimeout&Promise执行顺序
 
 ```
 setTimeout(function(){console.log(4)},0);
