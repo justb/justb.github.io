@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "setTimeout&Promise"
-date:   2017-6-24 23:45:13 -0400
+date:   2018-6-24 23:45:13 -0400
 background: '/img/posts/01.jpg'
 ---
 
